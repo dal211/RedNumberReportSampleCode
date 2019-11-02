@@ -8,11 +8,11 @@ For inventory management / procurement teams:
 
 Action Items: There are two main features features of the report.
 
-1. Placing an order in anticipation of inventory shortage
+Placing an order in anticipation of inventory shortage
 
 - If the Red Number Report says there is a shortage in supply for an item and if the inventory can be ordered within lead time, the buyer should respond by purchasing that short amount
 
-2. Rushing a PO 
+Rushing a PO 
 
 - If there is an predicted shortage out within lead time and there is already an order placed, but it would not come in time for the gap in demand, the report indicates to the buyer that that existing order should be expedited.
 
