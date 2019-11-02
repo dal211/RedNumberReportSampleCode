@@ -2,7 +2,7 @@ Red Number Report Documentation Guide
 
 Developed by David Jan-Liu
 
-- For inventory management / procurement teams:
+For inventory management / procurement teams:
 
 - The report is looking a lead time away to see the closest day an inventory out or “short” will occur. Buyer reviews report to analyze if there is a short and reads when the item should be purchased before the predicted short occurs.
 
