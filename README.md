@@ -1,6 +1,6 @@
 Red Number Report Documentation Guide
 
-Developed by David Liu
+Developed by David Jan-Liu
 
 The report is essentially looking forward a lead time away to see the closest day an out or “short” will occur and then if the buyer sees a short, the buyer should act by purchasing within lead time. 
 
