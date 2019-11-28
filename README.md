@@ -1,6 +1,6 @@
 Red Number Report Documentation Guide
 
-Developed by David Jan-Liu
+Developed by David Jan
 
 For inventory management / procurement teams:
 
